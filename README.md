@@ -38,8 +38,8 @@ The script requires a CSV file named `users.csv` in the same directory with the 
 Example:
 ```csv
 Email,ForwardingNumber
-user1@company.com,+15551234567
-user2@company.com,+15559876543
+user1@contoso.com,+15551234567
+user2@contoso.com,+15559876543
 ```
 
 The `ForwardingNumber` should be in E.164 format (with a "+" prefix followed by country code and phone number).
