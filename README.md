@@ -160,7 +160,7 @@ Always check the generated log file (`scriptlog_[timestamp].log`) for detailed e
 
 ## 📈 Version History
 
-- **v1.1** (March 2025): Enhanced with comprehensive voicemail settings backup and improved error handling
+- **v1.1** (June 2025): Enhanced with comprehensive voicemail settings backup and improved error handling
 - **v1.0**: Initial release with basic call forwarding configuration
 
 ## 🤝 Contributing
